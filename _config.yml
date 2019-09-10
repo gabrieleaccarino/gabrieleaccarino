@@ -111,9 +111,8 @@ author:
   avatar           : "/assets/images/foto-cv.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD student in Data Science for Climate Change, applying Machine Learning to improve climate models and to tackle interesting use cases in the Climate Change domain."
   location         : "Lecce, Italy"
-  location         : "Univeristy of Salento, Italy"
-  location         : "CMCC Foundation, Italy"
-  email            :
+  employer         : "CMCC Foundation, Italy"
+  email            : "gabriele.accarino@unisalento.it"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
