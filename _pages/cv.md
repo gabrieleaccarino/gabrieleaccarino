@@ -2,6 +2,7 @@
 title:  "CV"
 permalink: /cv/
 classes: wide
+author_profile: true
 ---
 
 ## Education
