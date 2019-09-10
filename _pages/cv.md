@@ -3,6 +3,7 @@ layout: "home"
 title:  "CV"
 permalink: /cv/
 author_profile: true
+classes: wide
 ---
 
 ## Education
@@ -28,3 +29,7 @@ author_profile: true
 *Thesis topic:* Continuous time SISO control systems with Smith predictor: analysis and fundamental properties  
 
 ## Awards
+
+**Leonardo Innovation Award 2018**  
+**ANIMA - An artificial intelligence tool for the migration analysis and projections**   
+*Abstract:* The project explores the predictive potential offered by the application of Deep Learning algorithms to the challenge of forecasting in the social sciences, and, in particular, to the prediction of international migration flows. An Artificial Neural Network model is adopted to design the likely direction and timing of migration models and identify the most likely countries of origin and arrival in the medium to long term.
