@@ -2,7 +2,6 @@
 layout: "home"
 title:  "CV"
 permalink: /cv/
-classes: wide
 author_profile: true
 ---
 
@@ -27,3 +26,5 @@ author_profile: true
 **Bachelor's Degree in Information Engineering**, University of Salento, Lecce, Italy   
 *Thesis supervisors:* Prof. Giovanni Indiveri   
 *Thesis topic:* Continuous time SISO control systems with Smith predictor: analysis and fundamental properties  
+
+## Awards
