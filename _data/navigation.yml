@@ -4,6 +4,8 @@ main:
     url: /blog/
   - title: "Publications"
     url: /publications/
+  - title: "Conferences"
+    url: /conferences/
   - title: "CV"
     url: /cv/
   # - title: "Quick-Start Guide"
