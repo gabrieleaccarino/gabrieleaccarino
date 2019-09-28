@@ -10,7 +10,7 @@ classes: wide
 
 ### Invited talks
 
-[*UPCOMING*] [**Early Experiences on Machine Learning for Climate Change Applications at CMCC**](http://users.ox.ac.uk/~phys0895/mlwc2019/index.html), Machine Learning for weather and climate modelling, Corpus Christi College, Oxford, UK, September 2019
+[**Early Experiences on Machine Learning for Climate Change Applications at CMCC**](http://users.ox.ac.uk/~phys0895/mlwc2019/index.html), Machine Learning for weather and climate modelling, Corpus Christi College, Oxford, UK, September 2019
 
 **CMCC Annual Meeting 2019**, Marina di Ugento, Lecce, Italy, June 2019   
 *Machine Learning for Climate Change applications and open issues*
@@ -25,6 +25,6 @@ classes: wide
 
 ## Conferences
 
-**The 9th Climate Informatics Workshop**, Ecole Normale Supérieure, Paris, France, October 2019
+[*UPCOMING*] **The 9th Climate Informatics Workshop**, Ecole Normale Supérieure, Paris, France, October 2019
 
 **CMCC Annual Meeting 2018**, Marina di Ugento, Lecce, Italy, June 2018  
