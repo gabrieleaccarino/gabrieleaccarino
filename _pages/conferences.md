@@ -19,12 +19,12 @@ classes: wide
 
 ## Workshops
 
-**The 9th Climate Informatics Workshop**, Ecole Normale Supérieure, Paris, France, October 2019
-
 **5th ENES HPC Workshop on HPC for High-Resolution Climate and Weather Modelling**, Lecce, Italy, May 2018
 
 ---
 
 ## Conferences
+
+**The 9th Climate Informatics Workshop**, Ecole Normale Supérieure, Paris, France, October 2019
 
 **CMCC Annual Meeting 2018**, Marina di Ugento, Lecce, Italy, June 2018  
